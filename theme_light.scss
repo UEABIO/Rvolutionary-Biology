@@ -14,6 +14,7 @@ $theme: "yeti" !default;
 $body-bg: #ffffff;
 $body-color: black;
 $link-color: #75AADB;
+$body-color-2: #075CAD;
 
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
@@ -59,7 +60,7 @@ $border-radius-sm:            0 !default;
 
 // stylelint-disable-next-line value-keyword-case
 $font-family-sans-serif:      "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$headings-font-weight:        300 !default;
+$headings-font-weight:        800 !default;
 
 // Tables
 
@@ -85,7 +86,7 @@ $nav-tabs-link-active-border-color: $nav-tabs-border-color !default;
 // Navbar
 
 $navbar-bg:                         $body-bg;
-$navbar-fg:                         $body-color;
+$navbar-fg:                         $body-color-2;
 $navbar-dark-color:                 rgba($white, .7) !default;
 $navbar-dark-hover-color:           $white !default;
 
