@@ -1,34 +1,64 @@
 ---
 title: ""
-image: images/leftwich.png
 toc: false
-about: 
-  template: jolla
-  image-shape: rounded
-  image-width: 12em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/philip-leftwich-117052155/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/PhilipLeftwich
-    - icon: github
-      text: GitHub
-      href: https://github.com/Philip-Leftwich
-    - icon: envelope
-      text: Email
-      href: mailto:p.leftwich@uea.ac.uk
+
+  
+page-layout: full
+title-block-banner: true
 ---
 
-<!-- ::: {.small-text} -->
 
-Hi, I'm Phil! 
 
-I am a molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.
+The Biology department at the University of East Anglia (UEA) is developing R into teaching at both undergraduate and postgraduate levels. 
+As big data and complex analysis skills become more mainstream across all biological disciplines (from multi-omics to complex ecological datasets), biology students need to have skills in computer programming and data analysis. The curriculum now prioritises the essential analytical skills in "data science", including developing programming skills, data visualisation techniques, data wrangling, and creating reproducible reports. Providing students with the data handling tools to problem solve across various biological disciplines and beyond.
+This website is a repository for the open materials used in teaching reproducible research within the Biology department at UEA. For access to open data and code, please visit our GitHub page.
 
-Currently based at the University of East Anglia I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.
+::: {.grid}
 
-On this site you can find information on my research, current projects, and find details about teaching and outreach projects. <!-- ::: -->
+::: {.g-col-12 #sec-curr}
+## Undergraduate Modules: {#sec-curr}
+:::
 
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column position-relative">
+<a href="https://ellenbell.github.io/4008Y/" target="_blank">
+<img src="images/blank.png" class="card-img-top" alt="4008Y Skills for Biologists">
+</a>
+<h4 class="card-title">4008Y Skills for Biologists</h4>
+<a href="https://research-portal.uea.ac.uk/en/persons/ellen-bell" target="_blank">
+<p class="card-subtitle">Developed by<br>Dr Ellen Bell</p>
+</a>
+<div class="card-text text-center"></div>
+<div class="text-center">
+</a>
+</div>
+</div>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column position-relative">
+<a href="https://ueabio.github.io/data-sci-v1/" target="_blank">
+<img src="images/data_sci.png" class="card-img-top" alt="5023Y Data Science">
+</a>
+<h4 class="card-title">5023Y Data Science</h4>
+<a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich" target="_blank">
+<p class="card-subtitle">Developed by<br>Dr Philip Leftwich</p>
+</a>
+<div class="card-text text-center"></div>
+<div class="text-center">
+</a>
+</div>
+</div>
+</div>
+
+:::
+
+:::
+
+
+
+---
 

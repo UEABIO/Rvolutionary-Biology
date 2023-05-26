@@ -3,37 +3,23 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://philip.leftwich.github.io/
-  google-analytics: "G-9SHEWYCPZ9"
-
-
-
+  site-url: https://ueabio.github.io/Rvolutionary-Biology-at-UEA/
+  
 
   navbar:
-    title: "Philip Leftwich"
+    title: "Rvolutionary Biology "
 
-    left:
-      - text: About
-        href: about.qmd
-      - href: publications.qmd
-        text: Publications
+    right:
       - href: people.qmd
         text: People
       - text: Resources
         menu:
-          - talks_workshops.qmd
-          - posts.qmd
           - myresources.qmd
- 
-    right:
       - icon: github
-        href: https://github.com/philip-leftwich
-      - icon: twitter
-        href: https://twitter.com/PhilipLeftwich
-      - icon: linkedin
-        href: https://www.linkedin.com/in/philip-leftwich-117052155/
+        href: https://github.com/UEABIO
       - icon: envelope
         href: mailto:p.leftwich@uea.ac.uk
+  
   page-footer: 
     background: light
     right: This website is built with [Quarto](https://quarto.org/)
@@ -43,11 +29,12 @@ format:
   html:
     page-layout: full
     sidebar: false
-    theme: 
-      - theme.scss
-    mainfont: Nunito
     toc: true
-    include-in-header: 
-    - file: "analytics.html"  
-
+    smooth-scroll: true
+    link-external-newwindow: true
+    theme: 
+      dark:
+      - theme.scss
+      light:
+      - theme_light.scss
 

@@ -1,0 +1,24 @@
+---
+title: "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED"
+
+description: |
+ This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you've learned, and lots of support to answer questions and overcome any challenges.
+author:
+  - name: Philip Leftwich
+
+date: 2023-09-18
+slug: left2023physalia
+categories: [Undergraduate, Second Year]
+image: data_sci.png
+
+page-layout: full
+title-block-banner: false
+---
+
+
+
+
+
+
+
+
