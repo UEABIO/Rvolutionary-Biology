@@ -14,7 +14,7 @@ $theme: "yeti" !default;
 $body-bg: #ffffff;
 $body-color: black;
 $link-color: #75AADB;
-$body-color-2: #075CAD;
+
 
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
@@ -86,7 +86,7 @@ $nav-tabs-link-active-border-color: $nav-tabs-border-color !default;
 // Navbar
 
 $navbar-bg:                         $body-bg;
-$navbar-fg:                         $body-color-2;
+$navbar-fg:                         $body-color;
 $navbar-dark-color:                 rgba($white, .7) !default;
 $navbar-dark-hover-color:           $white !default;
 
