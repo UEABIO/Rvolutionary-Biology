@@ -82,15 +82,10 @@ $nav-tabs-border-color:             $dropdown-border-color !default;
 $nav-tabs-link-hover-border-color:  $nav-tabs-border-color !default;
 $nav-tabs-link-active-border-color: $nav-tabs-border-color !default;
 
-.navbar-brand {
-  font-size: 20px; /* Adjust the value as needed */
-  font-weight: bold;
-}
-
 // Navbar
 
 $navbar-bg:                         $body-bg;
-$navbar-fg:                         #075CAD;
+$navbar-fg:                         $body-color;
 $navbar-dark-color:                 rgba($white, .7) !default;
 $navbar-dark-hover-color:           $white !default;
 
