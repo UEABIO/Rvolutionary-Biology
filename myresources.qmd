@@ -1,5 +1,5 @@
 ---
-title: "books & educational resources"
+title: "books, workshops & communities"
 subtitle: "a collection of our authored teaching resources and educational community partners"
 ---
 

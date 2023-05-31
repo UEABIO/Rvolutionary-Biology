@@ -15,6 +15,7 @@ website:
       - text: Resources
         menu:
           - myresources.qmd
+          - information.qmd
       - icon: github
         href: https://github.com/UEABIO
       - icon: envelope
