@@ -1,7 +1,7 @@
 ---
 title: teaching resources
-page-layout: full
-title-block-banner: false
+subtitle: "a collection of useful reading for the modern data scientist"
+
 ---
 
 
@@ -18,7 +18,7 @@ title-block-banner: false
 
 :::
 
-::: {.column width="10%"}
+::: {.column width="5%"}
 
 :::
 
